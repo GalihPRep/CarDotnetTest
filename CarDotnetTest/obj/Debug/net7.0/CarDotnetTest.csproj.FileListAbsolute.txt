@@ -1,0 +1,14 @@
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\bin\Debug\net7.0\CarDotnetTest.exe
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\bin\Debug\net7.0\CarDotnetTest.deps.json
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\bin\Debug\net7.0\CarDotnetTest.runtimeconfig.json
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\bin\Debug\net7.0\CarDotnetTest.dll
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\bin\Debug\net7.0\CarDotnetTest.pdb
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.AssemblyInfoInputs.cache
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.AssemblyInfo.cs
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.csproj.CoreCompileInputs.cache
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.dll
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\refint\CarDotnetTest.dll
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.pdb
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\CarDotnetTest.genruntimeconfig.cache
+D:\Work\Practice\DotNet\CarDotnetTest\CarDotnetTest\obj\Debug\net7.0\ref\CarDotnetTest.dll
